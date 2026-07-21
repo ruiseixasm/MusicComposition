@@ -1,4 +1,4 @@
-# workflow
+# Workflow
 
 1. Choose the kick (Track 1)
 	- Start with a solid kick sample.
