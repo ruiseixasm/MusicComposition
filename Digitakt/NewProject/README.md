@@ -1,11 +1,15 @@
 # Starting a new Project
 
 1. Create a new project
-	1. Press `FUNC + SETTINGS` (or open the Project menu, depending on your Digitakt model).
-	1. Go to Projects.
-	1. Select New Project.
-	1. Give it a name.
-	1. Save it.
+	1. Press `SETTINGS` (or open the Project menu, depending on your Digitakt model).
+	1. Go to Projects and press `YES`.
+	1. Go to Manage Projects and press `YES`.
+	1. Select an empty slot by pressing right arrow `>`.
+	1. Select Init New.
+	1. Select Rename.
+	1. Follow the `FUNC` combinations to give a new name.
+	1. Press `YES` to save it.
+	1. Select Load From to load the new Project
 1. Set the project tempo
 	1. Press `TEMPO`.
 	1. Set the BPM.
