@@ -59,7 +59,7 @@
 | T2    | Snare               |
 | T3    | Tom or Shaker       |
 | T4    | Clap                |
-| T5    | Cowbell, Clave      |
+| T5    | Cowbell or Clave    |
 | T6    | Close Hat           |
 | T7    | Open Hat            |
 | T8    | Percussion          |
