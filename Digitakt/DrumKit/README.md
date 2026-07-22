@@ -35,22 +35,6 @@
 	- Add toms, rimshots, shakers, or unusual percussion.
 	- Pan them slightly for width.
 
-# Kit shape
-
-- Match the levels before adding effects.
-- Add a little overdrive where needed.
-- Use the filter on every sound to remove frequencies you don't need.
-- Add send reverb and delay sparingly.
-- Save the sounds once you're happy.
-
-# Digitakt features
-
-- Parameter locks to change pitch, filter, or sample start per step.
-- Conditional trigs for variation.
-- Micro-timing for groove.
-- Retrigs for rolls.
-- LFOs for subtle movement on hats or percussion.
-
 # Common track layout
 
 | Track | Instrument          |
@@ -65,4 +49,6 @@
 | T8    | Cymbal, Crash or FX |
 
 This gives you a versatile kit that can cover most electronic genres while leaving plenty of room for Digitakt's sequencing tricks.
+
+
 
