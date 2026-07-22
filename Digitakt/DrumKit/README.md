@@ -62,7 +62,6 @@
 | T5    | Cowbell or Clave    |
 | T6    | Close Hat           |
 | T7    | Open Hat            |
-| T8    | Percussion          |
 | T8    | Cymbal, Crash or FX |
 
 This gives you a versatile kit that can cover most electronic genres while leaving plenty of room for Digitakt's sequencing tricks.
