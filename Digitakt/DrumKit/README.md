@@ -50,5 +50,13 @@
 
 This gives you a versatile kit that can cover most electronic genres while leaving plenty of room for Digitakt's sequencing tricks.
 
+# Cleaning existing samples (RAM)
+
+To remove all existing samples from the selected project (RAM/Sample pool) do:
+1. Press `SETTING`.
+1. Go to Samples and press `YES`.
+1. Open the right menu by pressing the right arrow `>`.
+1. Select Select All.
+1. Select Unload and confirm.
 
 
