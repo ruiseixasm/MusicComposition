@@ -61,7 +61,7 @@ To remove all existing samples from the selected project (RAM/Sample pool) do:
 
 # Loading samples (RAM)
 
-To replace existing samples (RAM), follow these steps:
+To load existing samples from the +Drive to the RAM, follow these steps:
 1. Press `SETTING`.
 1. Go to Samples and press `YES`.
 1. Open the left menu by pressing the left arrow `<`.
