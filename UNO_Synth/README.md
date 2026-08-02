@@ -22,11 +22,32 @@ Documents \ IK Multimedia \ UNO Synth Editor
 
 ## INIT a Preset
 
-- OSC: Wave 1 to Sawtooth
-- Wave 2 Level to 0
-- Noise Level to 0
-- FILTER: Cutoff all the way up (127)
-- Resonance to 0
-- ENV (Amplitude): Attack to 0, Decay to 0, Sustain to 127, Release to a quick decay
-- LFO: Rate and amounts to 0
-- DELAY: Mix to 0.
+1. **OSC**
+	- 1st row
+		- Wave 1 to Sawtooth
+		- Tune 1 value to 0
+	- 2nd row (hold to blink)
+		- Level 1 to 127
+		- Level 2 to 0 (Off)
+		- Noise to 0 (Off)
+1. **FILTER**
+	- 1st row
+		- Mode as LP
+		- Resonance to 0
+		- Overdrive to 0
+		- Envelope Amount to 0
+1. **CUTOFF** to 127
+1. **ENV**
+	- 2nd row (hold to blink)
+		- Amplitude Attack to 0
+		- Amplitude Decay to any value
+		- Amplitude Sustain to 127
+		- Amplitude Release to 0
+1. **LFO**
+	- Rate to 0
+	- Amount to 0 (Editor only)
+	- Pitch to 0
+	- Filter to 0
+1. **DELAY**
+	- Mix to 0
+
