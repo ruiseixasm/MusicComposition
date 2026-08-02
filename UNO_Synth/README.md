@@ -1,4 +1,25 @@
 # Configurations
+
+## Hidden Parameters
+
+- Hold **FILTER** (Blinking) for FILTER Envelope
+	- Attack
+	- Decay
+	- Sustain
+	- Release
+- Hold **ENV** (Blinking) for AMP Envelope
+	- Attack
+	- Decay
+	- Sustain
+	- Release
+
+## Presets in UNO Synth Editor
+
+Windows folder with all the existing Presets:
+```
+Documents \ IK Multimedia \ UNO Synth Editor
+```
+
 ## INIT a Preset
 
 - OSC: Wave 1 to Sawtooth
