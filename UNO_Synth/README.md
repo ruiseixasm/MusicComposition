@@ -45,11 +45,10 @@ Documents \ IK Multimedia \ UNO Synth Editor
 		- Amplitude Release to 0
 1. **LFO**
 	- Rate to 0
-	- Amount to 0 (Editor only`*`)
 	- Pitch to 0
 	- Filter to 0
+1. Oscillators' **LFO** Amount to 0 by selecting one of the first 20 Presets
 1. **DELAY**
 	- Mix to 0
 
-`*` - All first 20 Presets have the LFO Amount set to 0 already
 
