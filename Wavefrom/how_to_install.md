@@ -26,6 +26,29 @@ sudo nano /etc/security/limits.d/audio.conf
 Waveform14
 ```
 Shows the reporting of errors if any.
+If it results in errors, one should open it with PipeWire directly
+```sh
+LD_PRELOAD=/usr/lib/x86_64-linux-gnu/pipewire-0.3/jack/libjack.so Waveform14
+```
+
+# Adding an alias in terminal
+```sh
+nano ~/.bashrc
+```
+Write in it
+```ini
+alias Waveform14='LD_PRELOAD=/usr/lib/x86_64-linux-gnu/pipewire-0.3/jack/libjack.so Waveform14'
+```
+Load the created `bashrc`
+```sh
+source ~/.bashrc
+```
+
+# Creating a desktop shortcut
+```sh
+cp /usr/share/applications/waveform14.desktop ~/.local/share/applications/ 2>/dev/null || cp /usr/share/applications/Waveform14.desktop ~/.local/share/applications/
+```
+The given `||` triggers the second `cp` if the first fails.
 
 # Troubleshooting
 Nowadays all Ubuntu/Debian linux distros replaced **PulseAudio** and **JACK** by
