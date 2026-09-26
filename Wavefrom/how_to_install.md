@@ -79,3 +79,5 @@ Finally, restart the `pipewire`
 systemctl --user restart pipewire pipewire-pulse wireplumber
 ```
 
+More information in: [https://wiki.debian.org/PipeWire](https://wiki.debian.org/PipeWire)
+
