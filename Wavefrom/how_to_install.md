@@ -21,7 +21,7 @@ sudo nano /etc/security/limits.d/audio.conf
 @audio   -   memlock  unlimited
 ```
 
-# Running the Waveform in command line
+# Running the Waveform in command line with **PipeWire**
 ```sh
 Waveform14
 ```
